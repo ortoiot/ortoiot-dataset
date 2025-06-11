@@ -1,0 +1,18 @@
+# OrtoIoT-AI Dataset Creator - Dependencies
+# Professional tool for creating plant disease datasets
+
+# Core dependencies (required)
+# tkinter - built-in with Python (GUI framework)
+# json, os, shutil, uuid, datetime, pathlib - built-in with Python
+
+# Optional dependencies (enhance functionality but not required)
+# Pillow>=10.0.0  # For image preview (uncomment if you want image previews)
+
+# Note: This application is designed to work with Python built-in libraries only
+# No external dependencies are required for basic functionality
+# The app will work perfectly with just Python standard library
+
+# For development (optional):
+# pytest>=7.3.0
+# black>=23.3.0
+# flake8>=6.0.0

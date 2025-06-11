@@ -1,0 +1,17 @@
+{
+  "application": {
+    "name": "OrtoIoT-AI Dataset Creator",
+    "version": "1.0.0",
+    "description": "Professional tool for creating plant disease datasets"
+  },
+  "window": {
+    "title": "OrtoIoT-AI Dataset Creator",
+    "width": 1200,
+    "height": 800
+  },
+  "paths": {
+    "diseases_db": "data/diseases/diseases.json",
+    "images_dir": "data/images",
+    "exports_dir": "data/exports"
+  }
+}
